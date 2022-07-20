@@ -22,3 +22,8 @@ changes color based on the day/night cycle
 Additionally a shooting mechanism is implemented for the ship with the user being able to 
 fire one shot at a time using the alphabetical keys. 
 The planes continuously travel across the screen automatically. 
+
+ScreenShot
+
+![WhatsApp Image 2022-07-20 at 1 29 43 PM](https://user-images.githubusercontent.com/72649098/179933830-5dbacc7f-2ad7-4066-978c-654baed211fc.jpeg)
+
