@@ -1,4 +1,4 @@
-# CG_Assignment
+# Sailing Navy Warship
 
 The computer graphics (CG) mini project titled “Sailing Navy Warship” is project that is 
 using a set of OpenGL functions to demonstrate how to build 2D model of objects and their 
